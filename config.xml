@@ -1,5 +1,5 @@
 <config>
-  <trasp>200</trasp>
+  <trasp>255</trasp>
   <cFondo>0xFF112233</cFondo>
   <cFondoOn>0xFF445566</cFondoOn>
   <cButton>0xFF778899</cButton>
