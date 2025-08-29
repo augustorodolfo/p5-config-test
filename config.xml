@@ -1,0 +1,30 @@
+<config>
+  <trasp>200</trasp>
+  <cFondo>0xFF112233</cFondo>
+  <cFondoOn>0xFF445566</cFondoOn>
+  <cButton>0xFF778899</cButton>
+  <cButtonInEvent>0xFF99AABB</cButtonInEvent>
+  <cButtonOn>0xFFCCDDEE</cButtonOn>
+  <cFondoOnInEvent>0xFF112244</cFondoOnInEvent>
+  <cBordo>0xFF334455</cBordo>
+  <cFondoCursore>0xFF556677</cFondoCursore>
+  <cCursore>0xFF778899</cCursore>
+  <cCursoreInEvent>0xFF99AABB</cCursoreInEvent>
+  <cBordoInEvent>0xFFCCDDEE</cBordoInEvent>
+  <cFondoInEvent>0xFF112244</cFondoInEvent>
+  <cText>0xFF334455</cText>
+  <cName>0xFF556677</cName>
+  <bground>0xFF778899</bground>
+  <labelWeek>
+    <cFondo>0xFF99AABB</cFondo>
+    <cFondoOn>0xFFCCDDEE</cFondoOn>
+  </labelWeek>
+  <font>
+    <name>font\\arial.ttf</name>
+    <size>18</size>
+  </font>
+  <spessore_linee>2.5</spessore_linee>
+  <margin>5</margin>
+  <default_image>images\\default.png</default_image>
+  <path_versioni>data\\</path_versioni>
+</config>
